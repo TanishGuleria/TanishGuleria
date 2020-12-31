@@ -1,4 +1,4 @@
- <center>### Hi there 👋
+### Hi there 👋
 
 
 - 🔭 I’m currently working as Programmer Analyst Trainee at Cognizant
