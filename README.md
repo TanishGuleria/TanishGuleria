@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TanishGuleria/TanishGuleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Programmer Analyst Trainee at Cognizant
 - 🌱 I’m currently learning Azrure, Devops,Docker and kubernetes
