@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tanish Guleria 👋 <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
 
 
 - 🔭 I’m currently working as Programmer Analyst Trainee at Cognizant
@@ -7,5 +7,8 @@
 - ⚡ Fun fact: There is more to life....other than your computer's. 
  
  
- "https://github-readme-stats.vercel.app/api?username=tanishguleria&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
+![Tanish's github stats](https://github-readme-stats-1bvpjlhfe.vercel.app/api?username=TanishGuleria&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151516)
 
+
+## Connect with me 🔗:
+[![Linkedin Badge](https://img.shields.io/badge/-Tanish__Guleria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-singh-guleria/)](https://www.linkedin.com/in/tanish-singh-guleria/) 
