@@ -1,4 +1,5 @@
-### Tanish Guleria 👋 <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
+![Kermit-frog](https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif)
+### Tanish Guleria <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
 
 
 - 🔭 I’m currently working as Programmer Analyst Trainee at Cognizant
