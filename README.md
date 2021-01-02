@@ -12,7 +12,7 @@
 
 
 ## Connect with me 🔗:
-[![Linkedin Badge](https://img.shields.io/badge/-Tanish__Guleria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-singh-guleria/)](https://www.linkedin.com/in/tanish-singh-guleria-/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tanish__Guleria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanish-singh-guleria/)](https://https://www.linkedin.com/in/tanish-singh-guleria-45192014a) 
 
 <p align="center"> <img src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" alt="Kermit"/>
 
