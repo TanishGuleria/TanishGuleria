@@ -2,7 +2,7 @@
 ### Tanish Guleria <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
 
 
-- 🔭 I’m currently working as Programmer Analyst Trainee at Cognizant
+- 🔭 I’m currently working as Azure Devops and Infrastrucure trainee at Cognizant
 - 🌱 I’m currently learning Azure, DevOps, Docker and kubernetes
 - 💬 Ask me about Azure DevOps, .NET and Docker
 - ⚡ Fun fact: There is more to life....other than your computer's. 
