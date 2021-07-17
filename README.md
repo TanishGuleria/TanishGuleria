@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working as Azure Devops and Infrastrucure trainee at Cognizant
-- 🌱 I’m currently learning Azure, DevOps, Docker and kubernetes
-- 💬 Ask me about Azure DevOps, .NET and Docker
+- 🌱 I’m currently learning Aws,Azure, DevOps, Docker and kubernetes
+- 💬 Ask me about Azure DevOps,Kubernetes,eks,loadbalancing ,CDN,Aks,.NET and Docker
 - ⚡ Fun fact: There is more to life....other than your computer's. 
 
 
