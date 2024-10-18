@@ -2,7 +2,7 @@
 ### Tanish Guleria <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
 
 
-- 🔭 I’m currently working as Software Engineer 3 at Sophos 🏥
+- 🔭 I’m currently working as Software Engineer 3 at Sophos 
 - 🔭 Microsoft Certified: DevOps Engineer Expert (Az-400 )
 - 🌱 I’m currently learning Aws,Azure, DevOps, Docker and kubernetes
 - 💬 Ask me about Azure DevOps,Kubernetes,eks,loadbalancing,Ingress,Application Gateway,CDN,Aks,.NET and Docker
